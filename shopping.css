@@ -1,0 +1,55 @@
+.section_carousel img
+
+{
+    height: 400px;
+}
+
+.section_carousel
+{
+
+  margin-bottom: 40px;
+}
+
+.total-Bag
+{
+background-color: #353A40;
+height: 50px;
+
+}
+
+.drop_margin
+
+{
+  margin-right: 36px;
+}
+
+
+
+.section_Gird
+{
+ 
+   background-color:#DBDBDB;
+  
+}
+
+
+
+.section_Gird img
+{
+  height: 200px;
+  width: 200px;
+
+}
+
+
+#TPrice
+{
+  color:white;
+}
+
+
+.heart
+
+{
+  fill:red;
+}
